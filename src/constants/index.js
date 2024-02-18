@@ -93,7 +93,7 @@ export const stats = [
   },
   {
     id: "stats-2",
-    title: "Trusted by Compan`y",
+    title: "Trusted by Company",
     value: "230+",
   },
   {
